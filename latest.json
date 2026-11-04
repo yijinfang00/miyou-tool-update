@@ -1,9 +1,9 @@
 {
-  "version": "1.7",
+  "version": "1.7.1",
   "date": "2026-11-04",
-  "notes": "· 活动时间轴改版：按天一格，横条带官方活动横幅图，显示当前时间，可以拖动左右翻\n· 修复：活动开始时间按版本更新时间算；星铁有的活动之前没显示出来\n· 氪金计算改成档位卡片，每档有「首充双倍」开关；最省钱的充法看得更清楚\n· 官方公告连不上时最多等 20 秒，先显示上次保存的，后台继续读",
+  "notes": "· 修复：规划页「收入预估」两张表没对齐",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7/miyou-tool-v1.7.zip",
-  "sha256": "f10ea2418b610d728094a9aedc80906071eeef92c20d61064bf74814ad7018ca",
-  "size": 32108125
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.1/miyou-tool-v1.7.1.zip",
+  "sha256": "e3bb3268749e1e79d3ec880d9a7cd5088eba40157032479e5c3616840938eb12",
+  "size": 32109460
 }
