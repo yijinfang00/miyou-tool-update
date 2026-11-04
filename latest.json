@@ -1,9 +1,9 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "date": "2026-11-04",
-  "notes": "· 修复：规划页「收入预估」两张表没对齐",
+  "notes": "· 抽数规划里可以直接填「打算充值」（有 +6/+30/+98/+198/+328/+648 快捷按钮），按首充双倍算最划算的充法\n· 抽数规划显示抽数来源：日常、深渊/周常、商店兑换、版本活动、更新补偿、充值……点一下可以不算某一项\n· 每个把握档位直接显示「再充 ¥X」",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.1/miyou-tool-v1.7.1.zip",
-  "sha256": "e3bb3268749e1e79d3ec880d9a7cd5088eba40157032479e5c3616840938eb12",
-  "size": 32109460
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.2/miyou-tool-v1.7.2.zip",
+  "sha256": "b9e0f6301ae1bb2abbf764654ee135ff4f65c89dc66e8f3d803718175bbef507",
+  "size": 32110304
 }
