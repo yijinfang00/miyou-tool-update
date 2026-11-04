@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "date": "2026-11-04",
-  "notes": "· 抽数规划里可以直接填「打算充值」（有 +6/+30/+98/+198/+328/+648 快捷按钮），按首充双倍算最划算的充法\n· 抽数规划显示抽数来源：日常、深渊/周常、商店兑换、版本活动、更新补偿、充值……点一下可以不算某一项\n· 每个把握档位直接显示「再充 ¥X」",
+  "notes": "· 抽数规划：角色和武器可以一起算（每个卡池选想要几个 UP，各按自己的垫抽和保底算再加起来）\n· 原神：以后版本的活动原石默认用 Fandom wiki 统计的最近几个版本平均值，不用再自己估",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.2/miyou-tool-v1.7.2.zip",
-  "sha256": "b9e0f6301ae1bb2abbf764654ee135ff4f65c89dc66e8f3d803718175bbef507",
-  "size": 32110304
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.3/miyou-tool-v1.7.3.zip",
+  "sha256": "c9e2f9305fe6e34a891530d86f5558773b2309cb196a6ba9a1e30eecdaeb626b",
+  "size": 32112880
 }
