@@ -1,9 +1,9 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "date": "2026-11-04",
-  "notes": "· 抽数规划：角色和武器可以一起算（每个卡池选想要几个 UP，各按自己的垫抽和保底算再加起来）\n· 原神：以后版本的活动原石默认用 Fandom wiki 统计的最近几个版本平均值，不用再自己估",
+  "notes": "· 抽数规划算上抽卡返还（星辉/余烬/信号余波换抽数），默认按 8 折，可以改成不算 / 9 折 / 75 折\n· 各把握档位的「还差多少 / 再充 ¥」按实际要买的抽数算",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.3/miyou-tool-v1.7.3.zip",
-  "sha256": "c9e2f9305fe6e34a891530d86f5558773b2309cb196a6ba9a1e30eecdaeb626b",
-  "size": 32112880
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7.4/miyou-tool-v1.7.4.zip",
+  "sha256": "e04cd425ce41e4da826dc7f0f6e2dd30de5bbf9887edd62291422542a2b9f07d",
+  "size": 32114114
 }
