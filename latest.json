@@ -1,6 +1,9 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "date": "2026-11-04",
-  "notes": "· 使用说明（F1 或 ? 按钮）里显示当前版本号，并可以直接检查更新\n· 这是第一个通过「检查更新」推送的版本：以后有新版，打开程序就会提示",
-  "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest"
+  "notes": "· 一键更新：发现新版本时点「立即更新」，自动下载、核对、替换并重新打开，抽卡记录和设置不会动\n· 从 v1.3 / v1.4 升级：这次还需要手动下载替换一次，之后就可以一键更新了",
+  "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.5/miyou-tool-v1.5.zip",
+  "sha256": "340a6c3833525f468a51b8866336e35579f8b4a97d2ed93ef06672d9fdd53cdb",
+  "size": 32088185
 }
