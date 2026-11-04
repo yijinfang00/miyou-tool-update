@@ -1,9 +1,9 @@
 {
-  "version": "1.6",
+  "version": "1.7",
   "date": "2026-11-04",
-  "notes": "· 新增「规划」页：抽数规划搬到这里，可以算上到某天能攒的抽数\n· 活动时间轴：读官方游戏公告，显示版本、UP 卡池、各个活动的起止时间和写明的原石/星琼/菲林奖励\n· 收入预估：每日、深渊等固定收入（可改）+ 公告里的活动奖励和补偿\n· 氪金计算：各档平时/首充双倍能换多少、每抽多少钱、最省钱的充法",
+  "notes": "· 活动时间轴改版：按天一格，横条带官方活动横幅图，显示当前时间，可以拖动左右翻\n· 修复：活动开始时间按版本更新时间算；星铁有的活动之前没显示出来\n· 氪金计算改成档位卡片，每档有「首充双倍」开关；最省钱的充法看得更清楚\n· 官方公告连不上时最多等 20 秒，先显示上次保存的，后台继续读",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.6/miyou-tool-v1.6.zip",
-  "sha256": "82dfbfee664ee79ab2c492d38e215a67f3585a811dac491c0d5d3f29a071d6b5",
-  "size": 32102769
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v1.7/miyou-tool-v1.7.zip",
+  "sha256": "f10ea2418b610d728094a9aedc80906071eeef92c20d61064bf74814ad7018ca",
+  "size": 32108125
 }
