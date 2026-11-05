@@ -1,9 +1,9 @@
 {
-  "version": "2.0.3",
+  "version": "2.0.4",
   "date": "2026-11-05",
-  "notes": "· 修了装备分级榜里点顶部统计卡跳转时，那一级的开头被统计卡挡住的问题\n· 2.0.2 的内容：绝区零邦布有图片了；检查更新能马上读到刚发布的新版本\n· 2.0.1 的内容：展柜「练度总览」和「圣遗物 / 遗器 / 驱动盘排名」、展柜「不再显示」只隐藏不删除、修了旅行者显示成 #10000007、检查更新改成每次打开都查",
+  "notes": "· 展柜技能补全：原神显示固有天赋（和神里绫华、莫娜的替代冲刺）；绝区零技能、核心技、额外能力、影画、音擎效果都有描述了\n· 点技能图标可以看完整描述\n· 2.0.3 的内容：修了装备分级榜里点顶部统计卡跳转时被挡住的问题",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.3/miyou-tool-v2.0.3.zip",
-  "sha256": "c5398179d8daeaec27a19f547ce4dded8a89914d870ff3eea0769904a0f5981a",
-  "size": 32215453
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.4/miyou-tool-v2.0.4.zip",
+  "sha256": "701c00bfbe73f5539f6e0ae04b677034d14f0edd2096f0b1386c2992e0def878",
+  "size": 32217656
 }
