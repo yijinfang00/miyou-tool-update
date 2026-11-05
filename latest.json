@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "date": "2026-11-05",
-  "notes": "· 角色展柜新增「练度总览」：所有查到过的角色按等级、天赋、武器、装备打 0~100 分（ACE / S / A / B / C / D），标出每个人的短板和建议\n· 角色展柜新增「圣遗物 / 遗器 / 驱动盘排名」：全部装备分级榜（按有效词条或双暴分），也能切成列表，按部位、套装、角色筛选，点一件跳到角色\n· 展柜里「从缓存删除」改成「不再显示」：只是隐藏，我的角色里还算拥有\n· 修了旅行者在展柜里显示成 #10000007、天赋全是 1 的问题\n· 检查更新改成每次打开都查、开着时每 3 小时再查（以前每天最多一次，刚发新版时会错过）",
+  "notes": "· 绝区零的邦布现在有图片了（收藏、卡池账本、历史等地方），打开程序会自动补下载\n· 检查更新能马上读到刚发布的新版本（以前 GitHub 有几分钟缓存，刚发版时会提示没有新版本）\n· 2.0.1 的内容：展柜「练度总览」和「圣遗物 / 遗器 / 驱动盘排名」、展柜「不再显示」只隐藏不删除、修了旅行者显示成 #10000007、检查更新改成每次打开都查",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.1/miyou-tool-v2.0.1.zip",
-  "sha256": "0a0f2ad3d29276d69b0f4c843d058517ce80b4df0f1e1945a280bb0d10202d05",
-  "size": 32214923
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.2/miyou-tool-v2.0.2.zip",
+  "sha256": "109a445f5eb6dc3dc778b47838d0147482b70235d5a15c4144480930b4d97355",
+  "size": 32213643
 }
