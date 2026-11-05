@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "date": "2026-11-05",
-  "notes": "· 绝区零的邦布现在有图片了（收藏、卡池账本、历史等地方），打开程序会自动补下载\n· 检查更新能马上读到刚发布的新版本（以前 GitHub 有几分钟缓存，刚发版时会提示没有新版本）\n· 2.0.1 的内容：展柜「练度总览」和「圣遗物 / 遗器 / 驱动盘排名」、展柜「不再显示」只隐藏不删除、修了旅行者显示成 #10000007、检查更新改成每次打开都查",
+  "notes": "· 修了装备分级榜里点顶部统计卡跳转时，那一级的开头被统计卡挡住的问题\n· 2.0.2 的内容：绝区零邦布有图片了；检查更新能马上读到刚发布的新版本\n· 2.0.1 的内容：展柜「练度总览」和「圣遗物 / 遗器 / 驱动盘排名」、展柜「不再显示」只隐藏不删除、修了旅行者显示成 #10000007、检查更新改成每次打开都查",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.2/miyou-tool-v2.0.2-r2.zip",
-  "sha256": "e59235047dfdaf21cdf575f75abb86422774294196e0a9470176b898885ffe83",
-  "size": 32214132
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.3/miyou-tool-v2.0.3.zip",
+  "sha256": "c5398179d8daeaec27a19f547ce4dded8a89914d870ff3eea0769904a0f5981a",
+  "size": 32215453
 }
