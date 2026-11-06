@@ -1,9 +1,9 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "date": "2026-11-05",
-  "notes": "· 展柜技能补全：原神显示固有天赋（和神里绫华、莫娜的替代冲刺）；绝区零技能、核心技、额外能力、影画、音擎效果都有描述了\n· 点技能图标可以看完整描述\n· 2.0.3 的内容：修了装备分级榜里点顶部统计卡跳转时被挡住的问题",
+  "notes": "· 星铁资料页新增「配速」：展柜角色按速度排好，看每一轮能动几次、下一档还差多少速度\n· 顶部显示立绘、光锥、遗器套装和「当前速度 → 目标速度」，还差的话列出怎么补（副词条 / 速度鞋 / 速度套装 / 换光锥）\n· 速度构成条：基础、行迹、光锥、速度鞋、副词条、套装各加了多少\n· 可以试装别的光锥（选叠影）；自动识别光锥、技能、星魂、套装里的提速和拉条效果，点一下计入（翁瓦克够 120 速自动算上）\n· 支持异相仲裁（第 0 轮 300 行动值）\n· 修：「将光阴织成黄金」这类加基础速度的光锥，展柜面板之前没算进去",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.4/miyou-tool-v2.0.4.zip",
-  "sha256": "701c00bfbe73f5539f6e0ae04b677034d14f0edd2096f0b1386c2992e0def878",
-  "size": 32217656
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.5/miyou-tool-v2.0.5.zip",
+  "sha256": "472db96ab945bb441a267914c27750cf80aaf487f4861debc39509bbd7a97963",
+  "size": 32234551
 }
