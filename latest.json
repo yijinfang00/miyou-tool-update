@@ -1,9 +1,9 @@
 {
-  "version": "2.0.7",
+  "version": "2.0.8",
   "date": "2026-11-06",
-  "notes": "· 设置-外观加「特效：完整 / 简洁 / 关闭」；完整模式也改省了，显卡占用大约降了四到六成\n· 内存：卡片图用缩略图、去掉大面积背景模糊，同一页面少占两百多 MB\n· 收藏：按命座排序、已满命 / 未满命筛选、命座小圆点、再点一次排序按钮反过来排、武器显示谁在用\n· 光锥 / 武器详情：翻牌入场、装在 3D 亚克力块里（倾斜、翻转看得到厚度）、叠影残影、炫彩反光、效果数字高亮、装备者头像\n· 设置-版本和更新「选择版本」：可以换成发布过的其他版本，也能退回旧版本（v1.5 及以后）\n· 卡池数字滚动、数字等宽对齐、图片加载占位",
+  "notes": "· 修复：偶尔打开后白屏、或者某个页面打不开\n· 程序体积减半（32MB → 16MB），启动更快",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.7/miyou-tool-v2.0.7.zip",
-  "sha256": "dd1a071b9c60910024c0c02bdd882235e096b65b4d8ed1f74b46fe1113e85175",
-  "size": 32252363
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.8/miyou-tool-v2.0.8.zip",
+  "sha256": "5a6588e3b9357d80ab65761763c1eb36e75ab63bc016573f40730122b3b39734",
+  "size": 15879203
 }
