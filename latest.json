@@ -1,9 +1,9 @@
 {
-  "version": "2.0.6",
-  "date": "2026-11-05",
-  "notes": "· 满命 / 满魂 / 满影、满精 / 满叠特效：收藏卡片流光彩金边、扫光、飘星点，鼠标放上去跟着倾斜、有镭射反光\n· 展柜立绘、命座行、角色条、管理角色、练度总览、我的角色、收藏详情弹窗都加上了满命效果\n· 分享卡片里的满命角色也有彩金边框和发光角标\n· 展柜按角色属性换主色，切换角色时内容滑入\n· 空页面加了小插画\n· 修：展柜的角色分享卡片生成失败",
+  "version": "2.0.7",
+  "date": "2026-11-06",
+  "notes": "· 设置-外观加「特效：完整 / 简洁 / 关闭」；完整模式也改省了，显卡占用大约降了一半多\n· 内存：卡片图用缩略图、去掉大面积背景模糊，同一页面少占两百多 MB\n· 收藏：按命座排序、已满命 / 未满命筛选、命座小圆点、再点一次排序按钮反过来排、武器显示谁在用\n· 光锥 / 武器详情：翻牌入场、装在 3D 亚克力块里（倾斜、翻转看得到厚度）、叠影残影、炫彩反光、效果数字高亮、装备者头像\n· 设置-版本和更新「选择版本」：可以换成发布过的其他版本，也能退回旧版本（v1.5 及以后）\n· 卡池数字滚动、数字等宽对齐、图片加载占位",
   "url": "https://github.com/yijinfang00/miyou-tool-update/releases/latest",
-  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.6/miyou-tool-v2.0.6.zip",
-  "sha256": "d5d19d548a0045bdfca0a6749f38aa8ae9b657d28896a8fed9f1bc56c6c79a36",
-  "size": 32238721
+  "asset": "https://github.com/yijinfang00/miyou-tool-update/releases/download/v2.0.7/miyou-tool-v2.0.7.zip",
+  "sha256": "dd1a071b9c60910024c0c02bdd882235e096b65b4d8ed1f74b46fe1113e85175",
+  "size": 32252363
 }
